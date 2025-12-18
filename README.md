@@ -46,5 +46,23 @@ Tener en consideración la configuración del JDK.
 - Ejemplo de uso.
 Ejecutar App → Registrar participantes con sus respectivo patos → Crear una carrera seleccionando tres patos → Validar la carrera → Iniciar la simulación → Visualizar el podio → Consultar estadísticas en el menú.
 
+- Capturas.
+
+<img width="879" height="683" alt="image" src="https://github.com/user-attachments/assets/53464f67-a299-44c1-8a68-7cc9e9233280" />
+
+<img width="877" height="684" alt="image" src="https://github.com/user-attachments/assets/4c814b2c-6a9a-4615-8b06-05330def675e" />
+
+<img width="877" height="686" alt="image" src="https://github.com/user-attachments/assets/e6ec5ef2-23d8-44ee-87fa-ec8e21314ee4" />
+
+<img width="875" height="685" alt="image" src="https://github.com/user-attachments/assets/5345b38c-9c11-4845-b179-432f64512fee" />
+
+<img width="885" height="690" alt="image" src="https://github.com/user-attachments/assets/11b55197-1dc2-43fe-a8d4-606e30181e06" />
+
+<img width="771" height="587" alt="image" src="https://github.com/user-attachments/assets/72b7d52b-a9a2-4acf-a547-c7cf919f536a" />
+
+<img width="470" height="525" alt="image" src="https://github.com/user-attachments/assets/658004b5-d72c-48f9-bb72-64ffb74f14aa" />
+
+
+
 
 
